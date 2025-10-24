@@ -21,22 +21,7 @@ The goal is to identify how trading behavior (profitability, volume, risk) shift
 ## 2. Directory Structure
 
 This project follows the standardized submission format as requested:
-ds_<candidate_name>/
-│
-├── notebook_1.ipynb           # Main Google Colab notebook with all code
-├── ds_report.pdf              # Final report with analysis and insights
-├── README.md                  # This file
-│
-├── csv_files/                 # (Contains raw data - not included in repo)
-│   ├── historical_data.csv
-│   └── fear_greed_index.csv
-│
-└── outputs/                   # All visual outputs (charts and graphs)
-    ├── total_pnl_by_sentiment.png
-    ├── total_trades_by_sentiment.png
-    ├── total_volume_by_sentiment.png
-    ├── average_loss_by_sentiment.png
-    └── volatility_by_sentiment.png
+ds_<candidate_name>/ │ ├── notebook_1.ipynb # Main Google Colab notebook with all code ├── ds_report.pdf # Final report with analysis and insights ├── README.md # This file │ ├── csv_files/ # (Contains raw data - not included in repo) │ ├── historical_data.csv │ └── fear_greed_index.csv │ └── outputs/ # All visual outputs (charts and graphs) ├── total_pnl_by_sentiment.png ├── total_trades_by_sentiment.png ├── total_volume_by_sentiment.png ├── average_loss_by_sentiment.png └── volatility_by_sentiment.png
 
 
 ## 3. How to Review
@@ -46,4 +31,5 @@ ds_<candidate_name>/
    * A viewable Google Colab link is also provided: `[Paste Your 'Anyone with the link can view' Colab Link Here]`
 
 2. **Final Analysis:** The final summary, key findings, and strategic insights are documented in `ds_report.pdf`, which includes all charts from the `outputs/` folder.
+
 
