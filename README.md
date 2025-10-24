@@ -28,8 +28,9 @@ ds_<candidate_name>/ │ ├── notebook_1.ipynb # Main Google Colab notebook
 
 1. **Code:** All data cleaning, analysis, and visualization code is contained in `notebook_1.ipynb`.
 
-   * A viewable Google Colab link is also provided: `[Paste Your 'Anyone with the link can view' Colab Link Here]`
+   * A viewable Google Colab link is also provided: `(https://colab.research.google.com/drive/1Z8OiJiNE-AHThfJxqJk-fnN6Zyt4vful?usp=sharing)`
 
 2. **Final Analysis:** The final summary, key findings, and strategic insights are documented in `ds_report.pdf`, which includes all charts from the `outputs/` folder.
+
 
 
